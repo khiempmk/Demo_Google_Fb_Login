@@ -1,0 +1,9 @@
+attt\oauth_demo\model\Response.class
+attt\oauth_demo\factory\google\InfoGoogleGetter.class
+attt\oauth_demo\factory\facebook\InfoFacebookGetter.class
+attt\oauth_demo\utils\HttpConnector.class
+attt\oauth_demo\model\InfoModel.class
+attt\oauth_demo\factory\facebook\TokenFacebookGetter.class
+attt\oauth_demo\factory\google\TokenGoogleGetter.class
+attt\oauth_demo\control\Controller.class
+attt\oauth_demo\OauthDemo.class
